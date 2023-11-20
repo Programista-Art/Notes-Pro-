@@ -1,0 +1,11 @@
+object Fszyfrowanie: TFszyfrowanie
+  Left = 450
+  Height = 445
+  Top = 212
+  Width = 1131
+  BorderStyle = bsSingle
+  Caption = 'Szyfrowanie teksta'
+  OnCreate = FormCreate
+  Position = poMainFormCenter
+  LCLVersion = '2.2.4.0'
+end

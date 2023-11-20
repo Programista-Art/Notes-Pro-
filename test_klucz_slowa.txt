@@ -1,0 +1,10 @@
+Łatwość nauki - Delphi jest językiem programowania, który jest stosunkowo łatwy do nauki, dzięki czemu programiści mogą szybko zacząć tworzyć aplikacje.
+Bogata biblioteka komponentów - Delphi oferuje szeroki wybór komponentów, dzięki którym programiści mogą szybko i łatwo tworzyć zaawansowane aplikacje.
+Szybkość i wydajność - Delphi jest znany ze swojej szybkości i wydajności. Dzięki temu programiści mogą tworzyć aplikacje, które działają szybko i sprawnie.
+Wieloplatformowość - Delphi pozwala na tworzenie aplikacji dla różnych platform, w tym Windows, macOS, iOS i Android.
+Integracja z innymi językami - Delphi umożliwia integrację z innymi językami programowania, takimi jak C++, co pozwala na tworzenie bardziej zaawansowanych aplikacji.
+Duża społeczność - Delphi ma dużą i aktywną społeczność programistów, która oferuje wsparcie i pomoc w rozwiązywaniu problemów.
+Narzędzia RAD - Delphi oferuje narzędzia Rapid Application Development (RAD), które umożliwiają szybkie tworzenie aplikacji.
+Możliwości rozwoju - Delphi jest językiem programowania, który stale się rozwija i oferuje nowe możliwości, co pozwala na tworzenie coraz lepszych i bardziej zaawansowanych aplikacji.
+Wsparcie ze strony producenta - Delphi jest produktem firmy Embarcadero, która oferuje wsparcie techniczne oraz regularne aktualizacje.
+Praktyczność - Delphi jest stosunkowo prosty w użyciu, dzięki czemu programiści mogą skupić się na tworzeniu praktycznych aplikacji, zamiast tracić czas na naukę skomplikowanych narzędzi.
