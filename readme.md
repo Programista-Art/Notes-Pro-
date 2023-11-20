@@ -1,5 +1,5 @@
 
-# Notes Pro V1.1.5.0 (6.04.2023) Przedstawiam program Notes Pro V1.1.5.0 (6.04.2023)
+# Notes Pro V1.1.5.0 (6.04.2023)
 ![Notes pro V1.1.5.2](img/v1.1.5.2.jpg)
 ### [Zobacz Wideo](https://www.youtube.com/watch?v=PagyGDDTH5Q)
 ### Pierwsza wersja programu została stworzona 27 grudnia 2022 roku.Program Notes Pro to notatnik z wbudowanym kalkulatorem, funkcją wyszukiwania słów oraz bazą kluczowych słów. Użytkownicy mogą zapisywać słowa kluczowe do bazy w celu późniejszego wykorzystania. Dodawanie słów kluczowych do bazy jest bardzo proste i można to zrobić z poziomu pola tekstowego.
